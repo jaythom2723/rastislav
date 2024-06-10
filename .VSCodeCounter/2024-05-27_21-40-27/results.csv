@@ -1,0 +1,9 @@
+"filename", "language", "x86 and x86_64 Assembly", "C", "Makefile", "C++", "comment", "blank", "total"
+"c:\Users\pengu\OneDrive\Desktop\Console\Makefile", "Makefile", 0, 0, 8, 0, 0, 4, 12
+"c:\Users\pengu\OneDrive\Desktop\Console\console\include\console.h", "C", 0, 122, 0, 0, 0, 18, 140
+"c:\Users\pengu\OneDrive\Desktop\Console\console\include\ports.h", "C++", 0, 0, 0, 5, 5, 7, 17
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\console.c", "C", 0, 306, 0, 0, 9, 75, 390
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\main.c", "C", 0, 29, 0, 0, 0, 10, 39
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\ports.c", "C", 0, 11, 0, 0, 0, 4, 15
+"c:\Users\pengu\OneDrive\Desktop\Console\multiply.s", "x86 and x86_64 Assembly", 0, 0, 0, 0, 0, 1, 1
+"Total", "-", 0, 468, 8, 5, 14, 119, 614

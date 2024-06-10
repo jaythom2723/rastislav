@@ -1,0 +1,48 @@
+Date : 2024-06-09 09:07:05
+Directory : c:\Users\pengu\OneDrive\Desktop\Console
+Total : 13 files,  838 codes, 92 comments, 207 blanks, all 1137 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C        |          6 |        652 |         92 |        172 |        916 |
+| C++      |          3 |        157 |          0 |         31 |        188 |
+| JSON     |          3 |         21 |          0 |          0 |         21 |
+| Makefile |          1 |          8 |          0 |          4 |         12 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         13 |        838 |         92 |        207 |      1,137 |
+| . (Files)                                                                   |          1 |          8 |          0 |          4 |         12 |
+| .vs                                                                         |          3 |         21 |          0 |          0 |         21 |
+| .vs (Files)                                                                 |          2 |          9 |          0 |          0 |          9 |
+| .vs\Console                                                                 |          1 |         12 |          0 |          0 |         12 |
+| .vs\Console\v17                                                             |          1 |         12 |          0 |          0 |         12 |
+| console                                                                     |          9 |        809 |         92 |        203 |      1,104 |
+| console\include                                                             |          4 |        269 |          4 |         38 |        311 |
+| console\src                                                                 |          5 |        540 |         88 |        165 |        793 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\pengu\OneDrive\Desktop\Console\.vs\Console\v17\DocumentLayout.json | JSON     |         12 |          0 |          0 |         12 |
+| c:\Users\pengu\OneDrive\Desktop\Console\.vs\ProjectSettings.json            | JSON     |          3 |          0 |          0 |          3 |
+| c:\Users\pengu\OneDrive\Desktop\Console\.vs\VSWorkspaceState.json           | JSON     |          6 |          0 |          0 |          6 |
+| c:\Users\pengu\OneDrive\Desktop\Console\Makefile                            | Makefile |          8 |          0 |          4 |         12 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\include\common.h            | C++      |        124 |          0 |         19 |        143 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\include\console.h           | C        |        112 |          4 |          7 |        123 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\include\tty.h               | C++      |          7 |          0 |          4 |         11 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\include\video.h             | C++      |         26 |          0 |          8 |         34 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\src\common.c                | C        |         12 |          0 |          4 |         16 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\src\console.c               | C        |        335 |         81 |        108 |        524 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\src\main.c                  | C        |         70 |          0 |         15 |         85 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\src\tty.c                   | C        |         23 |          7 |          8 |         38 |
+| c:\Users\pengu\OneDrive\Desktop\Console\console\src\video.c                 | C        |        100 |          0 |         30 |        130 |
+| Total                                                                       |          |        838 |         92 |        207 |      1,137 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+

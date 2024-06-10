@@ -1,0 +1,15 @@
+"filename", "language", "Makefile", "C", "C++", "JSON", "comment", "blank", "total"
+"c:\Users\pengu\OneDrive\Desktop\Console\.vs\Console\v17\DocumentLayout.json", "JSON", 0, 0, 0, 12, 0, 0, 12
+"c:\Users\pengu\OneDrive\Desktop\Console\.vs\ProjectSettings.json", "JSON", 0, 0, 0, 3, 0, 0, 3
+"c:\Users\pengu\OneDrive\Desktop\Console\.vs\VSWorkspaceState.json", "JSON", 0, 0, 0, 6, 0, 0, 6
+"c:\Users\pengu\OneDrive\Desktop\Console\Makefile", "Makefile", 8, 0, 0, 0, 0, 4, 12
+"c:\Users\pengu\OneDrive\Desktop\Console\console\include\common.h", "C++", 0, 0, 124, 0, 0, 19, 143
+"c:\Users\pengu\OneDrive\Desktop\Console\console\include\console.h", "C", 0, 112, 0, 0, 4, 7, 123
+"c:\Users\pengu\OneDrive\Desktop\Console\console\include\tty.h", "C++", 0, 0, 7, 0, 0, 4, 11
+"c:\Users\pengu\OneDrive\Desktop\Console\console\include\video.h", "C++", 0, 0, 26, 0, 0, 8, 34
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\common.c", "C", 0, 12, 0, 0, 0, 4, 16
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\console.c", "C", 0, 335, 0, 0, 81, 108, 524
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\main.c", "C", 0, 70, 0, 0, 0, 15, 85
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\tty.c", "C", 0, 23, 0, 0, 7, 8, 38
+"c:\Users\pengu\OneDrive\Desktop\Console\console\src\video.c", "C", 0, 100, 0, 0, 0, 30, 130
+"Total", "-", 8, 652, 157, 21, 92, 207, 1137

@@ -1,0 +1,1 @@
+ = [ PRIORITY ] = displayCharacter does not display a character sometimes.
